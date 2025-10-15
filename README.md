@@ -80,7 +80,7 @@ void yyerror(const char *msg) {
 
 # OUTPUT
 
-![image](https://github.com/user-attachments/assets/7a8e548a-c00b-46a7-b30c-5045438e8342)
+<img width="669" height="534" alt="image" src="https://github.com/user-attachments/assets/18e16bb8-4ce3-4c43-9590-4c2e8da26c50" />
 
 # RESULT
 
